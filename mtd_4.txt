@@ -1,2 +1,0 @@
-cat: can't open '/proc/mtd4': No such file or directory
-Command execution failed: exit status 1
